@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js">
+</script>
+<style>
+.nicetable{font-family:"Trebuchet MS", Helvetica, sans-serif	
+; font-size:10pt; black}
+label { display: block; padding: 10px; border-bottom: 1px solid #aaa; }
+.highlight { background-color: yellow; }
+span.dropt {border-bottom: thin dotted; background: #ffeedd;}
+span.dropt:hover {text-decoration: none; background: #ffffff; z-index: 6; }
+span.dropt span {position: absolute; left: -9999px;
+  margin: 20px 0 0 0px; padding: 3px 3px 3px 3px;
+  border-style:solid; border-color:black; border-width:1px; z-index: 6;}
+span.dropt:hover span {left: 2%; background: #ffffff;} 
+span.dropt span {position: absolute; left: -9999px;
+  margin: 4px 0 0 0px; padding: 3px 3px 3px 3px; 
+  border-style:solid; border-color:black; border-width:1px;}
+span.dropt:hover span {margin: 20px 0 0 170px; background: #ffffff; z-index:6;} 
+
+</style>
+</head>
+<body>
+<table border class="nicetable" style="width:100%">
+  <tr>
+    <td><b>X-FILE</b></td>
+    <td><b>AFFILIATION</b></td>
+<td><b>MOTIVE</b></td>
+<td><b>METHOD</b></td>
+<td><b>RESULT</b></td>
+  </tr>
+  <tr>
+    <td><span class="dropt">Alien Abductors<span><img src="http://assets.catawiki.nl/assets/2011/8/29/5/5/e/55ed31a0-b47b-012e-ab5d-0050569439b1.jpg"></span></td>
+<td><label><input id="Alien" class="Alien" type="checkbox" value="1">Alien</label></td> 
+    <td><label><input id="Knowledge" class="Knowledge" type="checkbox" value="1">Knowledge</label></td>
+    <td><label><input id="Subterfuge" class="Subterfuge" type="checkbox" value="1">Subterfuge</label></td>
+    <td><label><input id="Abduction" class="Abduction" type="checkbox" value="1">Abduction</label></td>
+  </tr>
+<tr>
+<td><span class="dropt">Arctic Worms<span><img src="http://assets.catawiki.nl/assets/2011/8/29/d/7/7/d7785910-b479-012e-ab5d-0050569439b1.jpg"></span></td>
+<td><label><input id="Alien" class="Alien" type="checkbox" value="1">Alien</label></td> 
+    <td><label><input id="Survival" class="Survival" type="checkbox" value="1">Survival</label></td>
+    <td><label><input id="Possession" class="Possession" type="checkbox" value="1">Possession</label></td>
+    <td><label><input id="Insanity" class="Insanity" type="checkbox" value="1">Insanity</label></td>
+</tr>
+<tr>
+<td><span class="dropt">Brother Martin, Rogue Kindred<span><img src="http://assets.catawiki.nl/assets/2011/8/29/3/c/7/3c704690-b47b-012e-aaf5-0050569439b1.jpg"></span></td>
+<td><label><input id="Alien" class="Alien" type="checkbox" value="1">Alien</label></td> 
+    <td><label><input id="Knowledge" class="Knowledge" type="checkbox" value="1">Knowledge</label></td>
+    <td><label><input id="Violence" class="Violence" type="checkbox" value="1">Violence</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+</tr>
+<tr>
+<td><span class="dropt">Alien Conservationist<span><img src="http://assets.catawiki.nl/assets/2011/8/29/7/4/e/74ee0810-b47a-012e-ab26-0050569439b1.jpg"></span></td>
+<td><label><input id="Alien" class="Alien" type="checkbox" value="1">Alien</label></td> 
+    <td><label><input id="Ideology" class="Ideology" type="checkbox" value="1">Ideology</label></td>
+    <td><label><input id="Subterfuge" class="Subterfuge" type="checkbox" value="1">Subterfuge</label></td>
+    <td><label><input id="Abduction" class="Abduction" type="checkbox" value="1">Abduction</label></td>
+</tr>
+<tr>
+<td><span class="dropt">Død Kalm<span><img src="http://assets.catawiki.nl/assets/2011/8/29/9/c/7/9c7422e0-b47c-012e-aaf6-0050569439b1.jpg"></span></td>
+<td><label><input id="Alien" class="Alien" type="checkbox" value="1">Alien</label></td> 
+    <td><label><input id="Control" class="Control" type="checkbox" value="1">Control</label></td>
+    <td><label><input id="Manipulation" class="Manipulation" type="checkbox" value="1">Manipulation</label></td>
+    <td><label><input id="Physiological" class="Physiological" type="checkbox" value="1">Physiological</label></td>
+</tr>
+<tr>
+<td><span class="dropt">The Gregors<span><img src="http://assets.catawiki.nl/assets/2011/8/29/3/4/5/3455d0f0-b47a-012e-aaf3-0050569439b1.jpg"></span></td>
+<td><label><input id="Alien" class="Alien" type="checkbox" value="1">Alien</label></td> 
+    <td><label><input id="Security" class="Security" type="checkbox" value="1">Security</label></td>
+    <td><label><input id="Manipulation" class="Manipulation" type="checkbox" value="1">Manipulation</label></td>
+    <td><label><input id="Evidence" class="Evidence" type="checkbox" value="1">Evidence</label></td>
+</tr>
+<tr>
+<td><span class="dropt">Alien Listeners<span><img src="http://assets.catawiki.nl/assets/2011/8/29/c/f/7/cf760c70-b47b-012e-ab24-0050569439b1.jpg"></span></td>
+<td><label><input id="Alien" class="Alien" type="checkbox" value="1">Alien</label></td> 
+    <td><label><input id="Ideology" class="Ideology" type="checkbox" value="1">Ideology</label></td>
+    <td><label><input id="Subterfuge" class="Subterfuge" type="checkbox" value="1">Subterfuge</label></td>
+    <td><label><input id="Evidence" class="Evidence" type="checkbox" value="1">Evidence</label></td>
+</tr>
+<tr>
+<td><span class="dropt">Alien Experimenters<span><img src="http://assets.catawiki.nl/assets/2011/8/29/e/b/2/eb2113b0-b47b-012e-ab23-0050569439b1.jpg"></span></td>
+<td><label><input id="Alien" class="Alien" type="checkbox" value="1">Alien</label></td> 
+    <td><label><input id="Survival" class="Survival" type="checkbox" value="1">Survival</label></td>
+    <td><label><input id="Possession" class="Possession" type="checkbox" value="1">Possession</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+ <tr>
+    <td>John Barnett</td>
+    <td><label><input id="Government" class="Government" type="checkbox" value="1">Government</label></td> 
+    <td><label><input id="Control" class="Control" type="checkbox" value="1">Control</label></td>
+    <td><label><input id="Violence" class="Violence" type="checkbox" value="1">Violence</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+  </tr>
+   <tr>
+    <td>Reverse Engineers</td>
+    <td><label><input id="Government" class="Government" type="checkbox" value="1">Government</label></td> 
+    <td><label><input id="Security" class="Security" type="checkbox" value="1">Security</label></td>
+    <td><label><input id="Threats" class="Threats" type="checkbox" value="1">Threats</label></td>
+    <td><label><input id="Insanity" class="Insanity" type="checkbox" value="1">Insanity</label></td>
+  </tr>
+    <tr>
+    <td>Cmdr. Colin Henderson</td>
+    <td><label><input id="Government" class="Government" type="checkbox" value="1">Government</label></td> 
+    <td><label><input id="Security" class="Security" type="checkbox" value="1">Security</label></td>
+    <td><label><input id="Subterfuge" class="Subterfuge" type="checkbox" value="1">Subterfuge</label></td>
+    <td><label><input id="Evidence" class="Evidence" type="checkbox" value="1">Evidence</label></td>
+  </tr>
+      <tr>
+    <td>Ed Funsch, Postal Worker</td>
+    <td><label><input id="Government" class="Government" type="checkbox" value="1">Government</label></td> 
+    <td><label><input id="Control" class="Control" type="checkbox" value="1">Control</label></td>
+    <td><label><input id="Possession" class="Possession" type="checkbox" value="1">Possession</label></td>
+    <td><label><input id="Insanity" class="Insanity" type="checkbox" value="1">Insanity</label></td>
+  </tr>
+<tr>
+    <td>Duane Barry</td>
+    <td><label><input id="Government" class="Government" type="checkbox" value="1">Government</label></td> 
+    <td><label><input id="Survival" class="Survival" type="checkbox" value="1">Survival</label></td>
+    <td><label><input id="Violence" class="Violence" type="checkbox" value="1">Violence</label></td>
+    <td><label><input id="Abduction" class="Abduction" type="checkbox" value="1">Abduction</label></td>
+  </tr>
+  <tr>
+    <td>Faciphaga Emasculata</td>
+    <td><label><input id="Government" class="Government" type="checkbox" value="1">Government</label></td> 
+    <td><label><input id="Knowledge" class="Knowledge" type="checkbox" value="1">Knowledge</label></td>
+    <td><label><input id="Manipulation" class="Manipulation" type="checkbox" value="1">Manipulation</label></td>
+    <td><label><input id="Physiological" class="Physiological" type="checkbox" value="1">Physiological</label></td>
+  </tr>
+  <tr>
+    <td>The Cigarette-Smoking Man</td>
+    <td><label><input id="Government" class="Government" type="checkbox" value="1">Government</label></td> 
+    <td><label><input id="Ideology" class="Ideology" type="checkbox" value="1">Ideology</label></td>
+    <td><label><input id="Threats" class="Threats" type="checkbox" value="1">Threats</label></td>
+    <td><label><input id="Evidence" class="Evidence" type="checkbox" value="1">Evidence</label></td>
+  </tr>
+  <tr>
+    <td>Alien DNA Steroid Prog.</td>
+    <td><label><input id="Government" class="Government" type="checkbox" value="1">Government</label></td> 
+    <td><label><input id="Knowledge" class="Knowledge" type="checkbox" value="1">Knowledge</label></td>
+    <td><label><input id="Subterfuge" class="Subterfuge" type="checkbox" value="1">Subterfuge</label></td>
+    <td><label><input id="Physiological" class="Physiological" type="checkbox" value="1">Physiological</label></td>
+  </tr>
+  <tr>
+  </tr>
+    <tr>
+  </tr>
+    <tr>
+  </tr>
+    <tr>
+  </tr>
+  <tr>
+    <td>Eugene Victor Tooms</td>
+    <td><label><input id="Evolutionary" class="Evolutionary" type="checkbox" value="1">Evolutionary</label></td> 
+    <td><label><input id="Survival" class="Survival" type="checkbox" value="1">Survival</label></td>
+    <td><label><input id="Subterfuge" class="Subterfuge" type="checkbox" value="1">Subterfuge</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+  </tr>
+  <tr>
+    <td>Central Operating Sys./AI</td>
+    <td><label><input id="Evolutionary" class="Evolutionary" type="checkbox" value="1">Evolutionary</label></td> 
+    <td><label><input id="Security" class="Security" type="checkbox" value="1">Security</label></td>
+    <td><label><input id="Violence" class="Violence" type="checkbox" value="1">Violence</label></td>
+    <td><label><input id="Evidence" class="Evidence" type="checkbox" value="1">Evidence</label></td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td><label><input id="Evolutionary" class="Evolutionary" type="checkbox" value="1">Evolutionary</label></td> 
+    <td><label><input id="Knowledge" class="Knowledge" type="checkbox" value="1">Knowledge</label></td>
+    <td><label><input id="Violence" class="Violence" type="checkbox" value="1">Violence</label></td>
+    <td><label><input id="Abduction" class="Abduction" type="checkbox" value="1">Abduction</label></td>
+  </tr>
+  <tr>
+    <td>Arthur Grable</td>
+    <td><label><input id="Evolutionary" class="Evolutionary" type="checkbox" value="1">Evolutionary</label></td> 
+    <td><label><input id="Knowledge" class="Knowledge" type="checkbox" value="1">Knowledge</label></td>
+    <td><label><input id="Possession" class="Possession" type="checkbox" value="1">Possession</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+  </tr>
+  <tr>
+    <td>The Host</td>
+    <td><label><input id="Evolutionary" class="Evolutionary" type="checkbox" value="1">Evolutionary</label></td> 
+    <td><label><input id="Survival" class="Survival" type="checkbox" value="1">Survival</label></td>
+    <td><label><input id="Violence" class="Violence" type="checkbox" value="1">Violence</label></td>
+    <td><label><input id="Physiological" class="Physiological" type="checkbox" value="1">Physiological</label></td>
+  </tr>
+  <tr>
+    <td>Augustus Cole</td>
+    <td><label><input id="Evolutionary" class="Evolutionary" type="checkbox" value="1">Evolutionary</label></td> 
+    <td><label><input id="Control" class="Control" type="checkbox" value="1">Control</label></td>
+    <td><label><input id="Manipulation" class="Manipulation" type="checkbox" value="1">Manipulation</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+  </tr>
+  <tr>
+    <td>Dr. Banton and His Shadow</td>
+    <td><label><input id="Evolutionary" class="Evolutionary" type="checkbox" value="1">Evolutionary</label></td> 
+    <td><label><input id="Ideology" class="Ideology" type="checkbox" value="1">Ideology</label></td>
+    <td><label><input id="Threats" class="Threats" type="checkbox" value="1">Threats</label></td>
+    <td><label><input id="Evidence" class="Evidence" type="checkbox" value="1">Evidence</label></td>
+  </tr>
+  <tr>
+    <td>Leonard</td>
+    <td><label><input id="Evolutionary" class="Evolutionary" type="checkbox" value="1">Evolutionary</label></td> 
+    <td><label><input id="Control" class="Control" type="checkbox" value="1">Control</label></td>
+    <td><label><input id="Violence" class="Violence" type="checkbox" value="1">Violence</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+  </tr>
+  <tr>
+    <td>Cecil L'ively</td>
+    <td><label><input id="Evolutionary" class="Evolutionary" type="checkbox" value="1">Evolutionary</label></td> 
+    <td><label><input id="Control" class="Control" type="checkbox" value="1">Control</label></td>
+    <td><label><input id="Threats" class="Threats" type="checkbox" value="1">Threats</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+  </tr>
+  <tr>
+  </tr>
+   <tr>
+  </tr>
+   <tr>
+  </tr>
+   <tr>
+  </tr>
+  <tr>
+    <td>B.J. Morrow</td>
+    <td><label><input id="Primordial" class="Primordial" type="checkbox" value="1">Primordial</label></td> 
+    <td><label><input id="Control" class="Control" type="checkbox" value="1">Control</label></td>
+    <td><label><input id="Possession" class="Possession" type="checkbox" value="1">Possession</label></td>
+    <td><label><input id="Insanity" class="Insanity" type="checkbox" value="1">Insanity</label></td>
+  </tr>
+  <tr>
+    <td>The Jersey Devil</td>
+    <td><label><input id="Primordial" class="Primordial" type="checkbox" value="1">Primordial</label></td> 
+    <td><label><input id="Security" class="Security" type="checkbox" value="1">Security</label></td>
+    <td><label><input id="Violence" class="Violence" type="checkbox" value="1">Violence</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+  </tr>
+  <tr>
+    <td>The Swarm</td>
+    <td><label><input id="Primordial" class="Primordial" type="checkbox" value="1">Primordial</label></td> 
+    <td><label><input id="Survival" class="Survival" type="checkbox" value="1">Survival</label></td>
+    <td><label><input id="Violence" class="Violence" type="checkbox" value="1">Violence</label></td>
+    <td><label><input id="Abduction" class="Abduction" type="checkbox" value="1">Abduction</label></td>
+  </tr>
+  <tr>
+    <td>Volcanic Spore</td>
+    <td><label><input id="Primordial" class="Primordial" type="checkbox" value="1">Primordial</label></td> 
+    <td><label><input id="Survival" class="Survival" type="checkbox" value="1">Survival</label></td>
+    <td><label><input id="Manipulation" class="Manipulation" type="checkbox" value="1">Manipulation</label></td>
+    <td><label><input id="Physiological" class="Physiological" type="checkbox" value="1">Physiological</label></td>
+  </tr>
+  <tr>
+    <td>Lucas Henry, Serial Killer</td>
+    <td><label><input id="Primordial" class="Primordial" type="checkbox" value="1">Primordial</label></td> 
+    <td><label><input id="Control" class="Control" type="checkbox" value="1">Control</label></td>
+    <td><label><input id="Violence" class="Violence" type="checkbox" value="1">Violence</label></td>
+    <td><label><input id="Abduction" class="Abduction" type="checkbox" value="1">Abduction</label></td>
+  </tr>
+  <tr>
+    <td>Leonard Vance</td>
+    <td><label><input id="Primordial" class="Primordial" type="checkbox" value="1">Primordial</label></td> 
+    <td><label><input id="Knowledge" class="Knowledge" type="checkbox" value="1">Knowledge</label></td>
+    <td><label><input id="Manipulation" class="Manipulation" type="checkbox" value="1">Manipulation</label></td>
+    <td><label><input id="Physiological" class="Physiological" type="checkbox" value="1">Physiological</label></td>
+  </tr>
+  <tr>
+    <td>Donnie Pfaster</td>
+    <td><label><input id="Primordial" class="Primordial" type="checkbox" value="1">Primordial</label></td> 
+    <td><label><input id="Ideology" class="Ideology" type="checkbox" value="1">Ideology</label></td>
+    <td><label><input id="Subterfuge" class="Subterfuge" type="checkbox" value="1">Subterfuge</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+  </tr>
+  <tr>
+    <td>Sheriff Tom Arens, Cannibal</td>
+    <td><label><input id="Primordial" class="Primordial" type="checkbox" value="1">Primordial</label></td> 
+    <td><label><input id="Ideology" class="Ideology" type="checkbox" value="1">Ideology</label></td>
+    <td><label><input id="Subterfuge" class="Subterfuge" type="checkbox" value="1">Subterfuge</label></td>
+    <td><label><input id="Insanity" class="Insanity" type="checkbox" value="1">Insanity</label></td>
+  </tr>
+  <tr>
+  </tr>
+   <tr>
+  </tr>
+   <tr>
+  </tr>
+   <tr>
+  </tr>
+  <tr>
+    <td>Warren James Dupré</td>
+    <td><label><input id="Occult" class="Occult" type="checkbox" value="1">Occult</label></td> 
+    <td><label><input id="Survival" class="Survival" type="checkbox" value="1">Survival</label></td>
+    <td><label><input id="Possession" class="Possession" type="checkbox" value="1">Possession</label></td>
+    <td><label><input id="Abduction" class="Abduction" type="checkbox" value="1">Abduction</label></td>
+  </tr>
+    <tr>
+    <td>The Manitou</td>
+    <td><label><input id="Occult" class="Occult" type="checkbox" value="1">Occult</label></td> 
+    <td><label><input id="Control" class="Control" type="checkbox" value="1">Control</label></td>
+    <td><label><input id="Violence" class="Violence" type="checkbox" value="1">Violence</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+  </tr>
+    <tr>
+    <td>The Vampire</td>
+    <td><label><input id="Occult" class="Occult" type="checkbox" value="1">Occult</label></td> 
+    <td><label><input id="Survival" class="Survival" type="checkbox" value="1">Survival</label></td>
+    <td><label><input id="Subterfuge" class="Subterfuge" type="checkbox" value="1">Subterfuge</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+  </tr>
+    <tr>
+    <td>Ancestor Spirits</td>
+    <td><label><input id="Occult" class="Occult" type="checkbox" value="1">Occult</label></td> 
+    <td><label><input id="Ideology" class="Ideology" type="checkbox" value="1">Ideology</label></td>
+    <td><label><input id="Threats" class="Threats" type="checkbox" value="1">Threats</label></td>
+    <td><label><input id="Physiological" class="Physiological" type="checkbox" value="1">Physiological</label></td>
+  </tr>
+    <tr>
+    <td>Mrs. Paddock</td>
+    <td><label><input id="Occult" class="Occult" type="checkbox" value="1">Occult</label></td> 
+    <td><label><input id="Ideology" class="Ideology" type="checkbox" value="1">Ideology</label></td>
+    <td><label><input id="Threats" class="Threats" type="checkbox" value="1">Threats</label></td>
+    <td><label><input id="Death" class="Death" type="checkbox" value="1">Death</label></td>
+  </tr>
+    <tr>
+    <td>Col. Wharton, Zombie Master</td>
+    <td><label><input id="Occult" class="Occult" type="checkbox" value="1">Occult</label></td> 
+    <td><label><input id="Knowledge" class="Knowledge" type="checkbox" value="1">Knowledge</label></td>
+    <td><label><input id="Subterfuge" class="Subterfuge" type="checkbox" value="1">Subterfuge</label></td>
+    <td><label><input id="Insanity" class="Insanity" type="checkbox" value="1">Insanity</label></td>
+  </tr>
+    <tr>
+    <td>Michael Holvey, the Evil One</td>
+    <td><label><input id="Occult" class="Occult" type="checkbox" value="1">Occult</label></td> 
+    <td><label><input id="Ideology" class="Ideology" type="checkbox" value="1">Ideology</label></td>
+    <td><label><input id="Possession" class="Possession" type="checkbox" value="1">Possession</label></td>
+    <td><label><input id="Physiological" class="Physiological" type="checkbox" value="1">Physiological</label></td>
+  </tr>
+    <tr>
+    <td>Howard Graves, the Poltergeist</td>
+    <td><label><input id="Occult" class="Occult" type="checkbox" value="1">Occult</label></td> 
+    <td><label><input id="Security" class="Security" type="checkbox" value="1">Security</label></td>
+    <td><label><input id="Threats" class="Threats" type="checkbox" value="1">Threats</label></td>
+    <td><label><input id="Evidence" class="Evidence" type="checkbox" value="1">Evidence</label></td>
+  </tr>
+</table>
+<script>
+$('input:checkbox').click( function(){
+  var type = $(this).parent('label').text();
+  console.log(this.checked);
+  $('.' + type).attr('checked', this.checked).parent().toggleClass('highlight', this.checked);
+});
+</script>
+<script>
+imageLinks[$(this).text()]
+</script>
+<script src="imagelinks.js"></script>
+</body>
+</html>
