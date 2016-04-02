@@ -1,0 +1,4 @@
+ALLOWED_HOSTS = [
+    '.dinosaucers.com.',
+    'dinosaucers.com'
+]
