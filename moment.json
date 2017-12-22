@@ -1,0 +1,3634 @@
+{
+  "days" : [
+    {
+      "minuteCount" : 21,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 8,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-22T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 104,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 31,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-21T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 69,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 22
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 17
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Reminders",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 43,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-20T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 102,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 32
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 25
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 23
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 20
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Reminders",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 33,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-19T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 67,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 21
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Reminders",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 33,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-18T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 79,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 25
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 19
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 18
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Reminders",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 25,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-17T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 35,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Reminders",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 26,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-16T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 63,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 20
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Reminders",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 41,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-15T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 34,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 38,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-14T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 40,
+      "appUsages" : [
+        {
+          "appName" : "Telegram",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Anki",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 22,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-13T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 58,
+      "appUsages" : [
+        {
+          "appName" : "Telegram",
+          "onScreen" : 18
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Anki",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 24,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-12T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 96,
+      "appUsages" : [
+        {
+          "appName" : "Telegram",
+          "onScreen" : 29
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 27
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 25
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 19
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Anki",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 46,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-11T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 40,
+      "appUsages" : [
+        {
+          "appName" : "Telegram",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Anki",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 12,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-10T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 105,
+      "appUsages" : [
+        {
+          "appName" : "Telegram",
+          "onScreen" : 32
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 29
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 27
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 21
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Anki",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 39,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-09T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 16,
+      "appUsages" : [
+        {
+          "appName" : "Telegram",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Anki",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 8,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-08T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 33,
+      "appUsages" : [
+        {
+          "appName" : "Telegram",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Anki",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 21,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-07T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 51,
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 27,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-06T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 28,
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 31,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-05T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 28,
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 14,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-04T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 70,
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 17
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 17
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 33,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-03T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 77,
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 19
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 19
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 18
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 25,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-02T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 43,
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 23,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-12-01T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 40,
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 32,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-30T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 91,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 174
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 96
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 90
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 78
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 66
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 60
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 36
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 30
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 22
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Manything",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        }
+      ],
+      "pickupCount" : 57,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-29T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 40,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 23,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-28T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 119,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 30,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-27T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 58,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 12,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-26T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 73,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 33,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-25T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 75,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 36,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-24T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 119,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 51,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-23T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 76,
+      "appUsages" : [
+        {
+          "appName" : "Phone",
+          "onScreen" : 401
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 43
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 21
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Kindle",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Manything",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 38,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-22T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 63,
+      "appUsages" : [
+        {
+          "appName" : "Phone",
+          "onScreen" : 332
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 36
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 17
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Kindle",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Manything",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 43,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-21T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 50,
+      "appUsages" : [
+        {
+          "appName" : "Phone",
+          "onScreen" : 264
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 28
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Kindle",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Manything",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 43,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-20T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 70,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 38,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-19T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 88,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 27,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-18T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 52,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 37,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-17T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 61,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 40,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-16T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 63,
+      "appUsages" : [
+        {
+          "appName" : "Telegram",
+          "onScreen" : 102
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 96
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 84
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 78
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 66
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 49
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 28
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 27
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 26
+        },
+        {
+          "appName" : "Voice Memos",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "MTG Manager",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Manything",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 1
+        }
+      ],
+      "pickupCount" : 24,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-15T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 79,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 48,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-14T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 39,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 29,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-13T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 62,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 26,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-12T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 106,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 36,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-11T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 52,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 36,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-10T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 44,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 31,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-09T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 66,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 21
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Notes",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 26,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-08T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 48,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Notes",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 46,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-07T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 34,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 17,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-06T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 59,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 17
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 24,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-05T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 22,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Hangouts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 17,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-04T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 104,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 144
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 108
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 90
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 66
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 49
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 47
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 44
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 36
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 1
+        }
+      ],
+      "pickupCount" : 57,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-03T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 74,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 50,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-02T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 102,
+      "appUsages" : [
+
+      ],
+      "pickupCount" : 36,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-11-01T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 68,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "MTG Manager",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 49,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-10-31T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 78,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 18
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "MTG Manager",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 42,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-10-30T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 52,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "MTG Manager",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Stocks",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 34,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-10-29T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 86,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 19
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "MTG Manager",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Stocks",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 47,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-10-28T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 92,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 20
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "MTG Manager",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Stocks",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 61,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-10-27T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 129,
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 29
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 23
+        },
+        {
+          "appName" : "Telegram",
+          "onScreen" : 23
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "MTG Manager",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "TCGplayer",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Stocks",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 35,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-10-26T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 81,
+      "appUsages" : [
+        {
+          "appName" : "Telegram",
+          "onScreen" : 70
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 51
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 47
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 37
+        },
+        {
+          "appName" : "Pocket Mortys",
+          "onScreen" : 35
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 18
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Lux",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 36,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-10-25T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 73,
+      "appUsages" : [
+        {
+          "appName" : "Telegram",
+          "onScreen" : 63
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 46
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 42
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 34
+        },
+        {
+          "appName" : "Pocket Mortys",
+          "onScreen" : 32
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Lux",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 36,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-10-24T00:00:00-03:00"
+    },
+    {
+      "minuteCount" : 53,
+      "appUsages" : [
+        {
+          "appName" : "Telegram",
+          "onScreen" : 46
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 34
+        },
+        {
+          "appName" : "Reddit",
+          "onScreen" : 31
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 24
+        },
+        {
+          "appName" : "Pocket Mortys",
+          "onScreen" : 23
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "MyFitnessPal",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Music",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Awful",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Lux",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "YouTube",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Moovit",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Siri",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "FotMob",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 0
+        }
+      ],
+      "pickupCount" : 43,
+      "pickups" : [
+
+      ],
+      "sessions" : [
+
+      ],
+      "date" : "2017-10-23T00:00:00-03:00"
+    }
+  ]
+}
