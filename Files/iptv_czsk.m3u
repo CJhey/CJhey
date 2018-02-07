@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,markiza
+http://88.202.231.174:80/live/markiza_hd_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,dajto
+http://88.202.231.174:80/live/dajto_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,doma
+http://88.202.231.174:80/live/doma_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,joj
+http://88.202.231.174:80/live/joj_hd_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,joj+1
+http://88.202.231.174:80/live/joj_plus1_medium_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,joj plus
+http://88.202.231.174:80/live/joj_plus_hd_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,rik
+http://88.202.231.174:80/live/rik_tv_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,tuty
+http://88.202.231.174:80/live/tuty_medium_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,wau
+http://88.202.231.174:80/live/wau_hd_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,ta3
+http://88.202.231.174:80/live/ta_3_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,ct 1
+http://88.202.231.174:80/live/ct_1_high_3500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,ct 2
+http://88.202.231.174:80/live/ct_2_high_3500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,ct 24
+http://88.202.231.174:80/live/ct_24_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,ct 4 sport
+http://88.202.231.174:80/live/ct_4_sport_hd_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,nova international
+http://88.202.231.174:80/live/nova_international_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,prima plus
+http://88.202.231.174:80/live/prima_plus_medium_1800_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,prima cool
+http://88.202.231.174:80/live/prima_cool_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,prima love
+http://88.202.231.174:80/live/prima_love_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,prima zoom
+http://88.202.231.174:80/live/prima_zoom_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, barrandov
+http://88.202.231.174:80/live/barrandov_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,ct art
+http://88.202.231.174:80/live/ct_detem_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,kino barrandov
+http://88.202.231.174:80/live/kino_barrandov_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,barrandov plus
+http://88.202.231.174:80/live/barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,hbo
+http://88.202.231.174/live/hbo_hd_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,hbo 2
+http://88.202.231.174/live/hbo_2_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,hbo 3
+http://88.202.231.174/live/hbo_3_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,cinemax 2
+http://88.202.231.174/live/cinemax_2_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,cinemax
+http://88.202.231.174/live/cinemax_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,nova cinema
+http://88.202.231.174/live/nova_cinema_high_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,joj cinema
+http://88.202.231.174/live/joj_cinema_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,nickelodeon
+http://88.202.231.174/live/nickelodeon_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,filmbox
+http://88.202.231.174/live/filmbox_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,filmbox plus
+http://88.202.231.174/live/filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,filmbox extra
+http://88.202.231.174/live/filmbox_extra_hd_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,filmbox premium
+http://88.202.231.174/live/filmbox_premium_hd_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,filmbox family
+http://88.202.231.174/live/filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,filmbox arthouse
+http://88.202.231.174/live/filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,prima
+http://88.202.231.174/live/prima_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,spektrum
+http://88.202.231.174/live/spektrum_hd_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,nova gold
+http://88.202.231.174/live/telka_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, slager
+http://88.202.231.174/live/mtv_europe_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, prima max
+http://88.202.231.174/live/prima_max_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, ocko
+http://88.202.231.174/live/ocko_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, ocko gold
+http://88.202.231.174/live/ocko_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, smichov
+http://88.202.231.174/live/ocko_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, stv 1
+http://88.202.231.174/live/stv_1_hd_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, stv 2
+http://88.202.231.174/live/stv_2_hd_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, tv lux
+http://88.202.231.174/live/tv_lux_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,noe tv
+http://88.202.231.174/live/noe_tv_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,music box
+http://88.202.231.174/live/music_box_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,tv 8
+http://88.202.231.174/live/tv_8_atk_1200/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,animal planet
+http://88.202.231.174/live/animal_planet_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,sport 2
+http://88.202.231.174/live/sport_2_hd_4500_atk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,sport 1
+http://88.202.231.174/live/sport_1_hd_4500_atk/playlist.m3u8
